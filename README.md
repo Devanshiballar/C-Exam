@@ -2,7 +2,7 @@
 
 <h1> 1 Practical </h1>
 
-![1 Practical Image](Output Image\pr1.png)
+![1 Practical Image](OutputImage\pr1.png)
 
 <h1> 2 Practical </h1>
 
