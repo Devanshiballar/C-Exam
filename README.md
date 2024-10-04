@@ -14,15 +14,15 @@
 
 <h1> 4 Practical </h1>
 
-![4 Practical Image](OutputImage\pr4.png)
+![4 Practical Image](OutputImage/pr4.png)
 
 <h1> 5 Practical </h1>
 
-![5 Practical Image](OutputImage\pr5.png)
+![5 Practical Image](OutputImage/pr5.png)
 
 <h1> 6 Practical </h1>
 
-![6 Practical Image](OutputImage\pr6.png)
+![6 Practical Image](OutputImage/pr6.png)
 
 <h1> 7 Practical </h1>
 
