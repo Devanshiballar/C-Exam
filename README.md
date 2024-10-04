@@ -2,15 +2,15 @@
 
 <h1> 1 Practical </h1>
 
-![1Practical Image](OutputImage\pr1.png)
+![1Practical Image](OutputImage/pr1.png)
 
 <h1> 2 Practical </h1>
 
-![2PracticalImage](OutputImage\pr2.png)
+![2PracticalImage](OutputImage/pr2.png)
 
 <h1> 3 Practical </h1>
 
-![3 Practical Image](OutputImage\pr3.png)
+![3 Practical Image](OutputImage/pr3.png)
 
 <h1> 4 Practical </h1>
 
@@ -26,4 +26,4 @@
 
 <h1> 7 Practical </h1>
 
-![7 Practical Image](OutputImage\pr7.png)
+![7 Practical Image](OutputImage/pr7.png)
